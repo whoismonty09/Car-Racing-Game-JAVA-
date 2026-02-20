@@ -35,3 +35,16 @@ The player controls a car using keyboard keys and must avoid enemy cars to score
 2. Compile the program:
    ```bash
    javac CarRacingGame.java
+
+---
+
+## 📚 Learning Outcomes
+
+- Implemented a basic game loop using Timer
+- Practiced keyboard input handling
+- Used 2D graphics in Java
+- Applied collision detection logic
+- Improved understanding of GUI-based applications
+
+---
+

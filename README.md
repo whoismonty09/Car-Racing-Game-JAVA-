@@ -48,3 +48,13 @@ The player controls a car using keyboard keys and must avoid enemy cars to score
 
 ---
 
+## 🔮 Future Enhancements
+
+- Add multiple enemy cars
+- Add levels and increasing difficulty
+- Add sound effects
+- Add restart and exit buttons
+- Improve graphics using images
+
+---
+

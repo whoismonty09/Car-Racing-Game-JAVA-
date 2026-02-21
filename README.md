@@ -60,4 +60,4 @@ The player controls a car using keyboard keys and must avoid enemy cars to score
 
 ## Author 
 
--  
+Developed by Monty
